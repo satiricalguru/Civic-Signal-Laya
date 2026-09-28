@@ -107,8 +107,8 @@ Civic Signal features a local visual workbench with smooth canvas-driven orbital
 
 ```bash
 # Clone the repository
-git clone https://github.com/satiricalguru/Civic-Signal.git
-cd Civic-Signal
+git clone https://github.com/satiricalguru/Civic-Signal-Laya.git
+cd Civic-Signal-Laya
 
 # Setup Python virtual environment & dependencies
 python3.12 -m venv .venv
@@ -187,7 +187,7 @@ For a resident submission $x \in \mathcal{X}$ composed of natural language text 
 ## 🏗️ Architecture
 
 ```text
-Civic-Signal/
+Civic-Signal-Laya/
 ├── assets/                     # Video preview, screenshots & story cards
 │   ├── civic-signal-motion-preview.mp4
 │   └── civic-signal-dark-desktop.png
